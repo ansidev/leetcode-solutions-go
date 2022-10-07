@@ -1,0 +1,14 @@
+version: '3'
+
+tasks:
+  lc:
+    desc: Generate code to solve a specific LeetCode problem
+    cmds:
+      - go run main.go lc {{.CLI_ARGS}}
+    silent: true
+
+  test:
+    desc: Run tests
+    cmds:
+      - go test -v ./...
+    silent: true
