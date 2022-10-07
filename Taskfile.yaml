@@ -7,6 +7,13 @@ tasks:
       - go run main.go lc {{.CLI_ARGS}}
     silent: true
 
+  commit:
+    desc: Commit code for a specific LeetCode problem
+    cmds:
+      - >-
+        git commit -m "chore: add solution for problem #{{.CLI_ARGS}}"
+    silent: true
+
   test:
     desc: Run tests
     cmds:
