@@ -219,7 +219,7 @@
 - [ ] [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii)
 - [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 - [ ] [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem)
-- [ ] [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)
+- [x] [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)
 - [ ] [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii)
 - [ ] [221. Maximal Square](https://leetcode.com/problems/maximal-square)
 - [ ] [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)
