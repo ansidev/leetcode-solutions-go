@@ -10,6 +10,16 @@ tasks:
         cat data/problem_set.json | jq --raw-output '.data.problemsetQuestionList.questions | map("\(.frontendQuestionId): \"\(.titleSlug)\",") | .[]' | sed 's/-/_/g' > tmp/slug.txt
     silent: true
 
+  problems:
+    desc: Generate PRBLEMS.md
+    cmds:
+      - echo "# LeetCode Problems" > PROBLEMS.md
+      - echo "" >> PROBLEMS.md
+      - echo "<!-- leetcode_problems -->" >> PROBLEMS.md
+      - >
+        cat data/problem_set.json | jq --raw-output '.data.problemsetQuestionList.questions | map("- [ ] [\(.frontendQuestionId). \(.title)](https://leetcode.com/problems/\(.titleSlug))") | .[]' >> PROBLEMS.md
+    silent: true
+
   lc:
     desc: Generate code to solve a specific LeetCode problem
     cmds:
