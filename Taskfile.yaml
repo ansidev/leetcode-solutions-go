@@ -1,6 +1,15 @@
 version: '3'
 
 tasks:
+  slug:
+    desc: Generate problem slug map
+    cmds:
+      - >
+        [ -d tmp ] || mkdir tmp
+      - >
+        cat data/problem_set.json | jq --raw-output '.data.problemsetQuestionList.questions | map("\(.frontendQuestionId): \"\(.titleSlug)\",") | .[]' | sed 's/-/_/g' > tmp/slug.txt
+    silent: true
+
   lc:
     desc: Generate code to solve a specific LeetCode problem
     cmds:
