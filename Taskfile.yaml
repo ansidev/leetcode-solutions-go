@@ -11,7 +11,7 @@ tasks:
     silent: true
 
   problems:
-    desc: Generate PRBLEMS.md
+    desc: Generate PROBLEMS.md
     cmds:
       - echo "# LeetCode Problems" > PROBLEMS.md
       - echo "" >> PROBLEMS.md
