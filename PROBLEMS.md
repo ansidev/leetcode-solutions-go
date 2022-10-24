@@ -2400,7 +2400,7 @@
 - [ ] [2397. Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns)
 - [ ] [2398. Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget)
 - [ ] [2399. Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters)
-- [ ] [2400. Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps)
+- [x] [2400. Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps)
 - [ ] [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray)
 - [ ] [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)
 - [ ] [2403. Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters)
