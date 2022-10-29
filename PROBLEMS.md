@@ -1446,7 +1446,7 @@
 - [ ] [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)
 - [ ] [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)
 - [ ] [1445. Apples & Oranges](https://leetcode.com/problems/apples-oranges)
-- [ ] [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters)
+- [x] [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters)
 - [ ] [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions)
 - [ ] [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)
 - [ ] [1449. Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target)
