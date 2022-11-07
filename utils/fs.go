@@ -10,15 +10,14 @@ func GenerateProblemFiles(problemName string) {
 	// variables
 	vars := make(map[string]interface{})
 	vars["ProblemPackageName"] = "problem"
-	problemDir := "problem"
 
 	// parse the template
 	problemTmpl, _ := template.ParseFiles("templates/problem.tmpl")
 	problemTestTmpl, _ := template.ParseFiles("templates/problem_test.tmpl")
 
 	// create new files
-	problemFile, _ := os.Create(fmt.Sprintf("%s/%s.go", problemDir, problemName))
-	problemTestFile, _ := os.Create(fmt.Sprintf("%s/%s_test.go", problemDir, problemName))
+	problemFile, _ := os.Create(fmt.Sprintf("%s/%s.go", ProblemDir, problemName))
+	problemTestFile, _ := os.Create(fmt.Sprintf("%s/%s_test.go", ProblemDir, problemName))
 	defer problemFile.Close()
 	defer problemTestFile.Close()
 

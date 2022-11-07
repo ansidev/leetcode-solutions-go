@@ -23,7 +23,7 @@ tasks:
   lc:
     desc: Generate code to solve a specific LeetCode problem
     cmds:
-      - go run main.go lc {{.CLI_ARGS}}
+      - go run main.go {{.CLI_ARGS}}
     silent: true
 
   commit:
