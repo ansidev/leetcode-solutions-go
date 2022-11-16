@@ -2357,7 +2357,7 @@
 - [ ] [2354. Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs)
 - [ ] [2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take)
 - [ ] [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)
-- [ ] [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)
+- [x] [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)
 - [ ] [2358. Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition)
 - [ ] [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes)
 - [ ] [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph)
