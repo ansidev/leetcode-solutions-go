@@ -375,7 +375,7 @@
 - [ ] [372. Super Pow](https://leetcode.com/problems/super-pow)
 - [ ] [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)
 - [x] [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)
-- [ ] [375. Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii)
+- [x] [375. Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii)
 - [ ] [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)
 - [ ] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)
 - [ ] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
