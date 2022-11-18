@@ -628,7 +628,7 @@
 - [ ] [625. Minimum Factorization](https://leetcode.com/problems/minimum-factorization)
 - [ ] [626. Exchange Seats](https://leetcode.com/problems/exchange-seats)
 - [ ] [627. Swap Salary](https://leetcode.com/problems/swap-salary)
-- [ ] [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)
+- [x] [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)
 - [ ] [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array)
 - [ ] [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii)
 - [ ] [631. Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula)
