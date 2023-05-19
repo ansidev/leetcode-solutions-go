@@ -1,10 +1,10 @@
 module github.com/ansidev/leetcode
 
-go 1.19
+go 1.20
 
 require (
-	github.com/stretchr/testify v1.8.1
-	github.com/urfave/cli/v2 v2.23.5
+	github.com/stretchr/testify v1.8.3
+	github.com/urfave/cli/v2 v2.25.3
 )
 
 require (
